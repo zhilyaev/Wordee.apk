@@ -2,7 +2,6 @@
 @author Zhilyaev Dmitriy
 @ email zhilyaev.dmitriy@gmail.com
 @date 30.06.2017
-@for kwork.ru
  */
 package diamon.wordee;
 
